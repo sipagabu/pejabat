@@ -39,3 +39,25 @@ INSERT INTO `pejabat`.`pejabat_table` (`ID`, `Nama`, `Departemen`, `Jabatan`, `H
 (NULL, 'Rionald Silaban','Kementerian Keuangan', 'Staf Ahli Bidang Organisasi, Birokrasi, dan Teknologi Informasi', NULL, NULL, ' T. (021) 384.9176 Ext. 6211 F. (021) 384.7465', NULL, NULL, NULL);
 
 
+INSERT INTO `pejabat`.`pejabat_table` (`ID`, `Nama`, `Departemen`, `Jabatan`, `Handphone`, `Email`, `Telephone_Kantor`, `Ajudan`, `Handphone_Ajudan`, `Email_Ajudan`) VALUES 
+(NULL ,  'Gamawan Fauzi,  'KEMENTERIAN DALAM NEGERI', 'Menteri Dalam Negeri', NULL , NULL ,  'Telp. (021) 3842222 ext. 2212 Fax. (021) 3812221', NULL , NULL , NULL),
+(NULL, 'DIAH ANGGRAENI', 'KEMENTERIAN DALAM NEGERI','SEKRETARIS JENDERAL', NULL, NULL, 'Telp. (021) 3450919  Ext. 2214 Fax. (021) 3524043', NULL , NULL , NULL),
+(NULL, 'MALIKI HERU SANTOSA, AK, MBA', 'KEMENTERIAN DALAM NEGERI','INSPEKTUR JENDERAL', NULL, NULL, 'Telp. (021) 3842602 Ext. 215 Fax. (021) 3842602', NULL, NULL, NULL),
+(NULL, 'Prof. DR. H. DJOHERMANSYAH DJOHAN, MA. ', 'KEMENTERIAN DALAM NEGERI','DIREKTUR JENDERAL OTONOMI DAERAH ', NULL, NULL, 'Telp. (021) 3453501 Ext. 2205 Fax. (021) 345.3710, 385.2143, 384.4784', NULL, NULL, NULL),
+(NULL, 'Drs. A.TANRI BALI LAMO,SH.','KEMENTERIAN DALAM NEGERI', 'DIREKTUR JENDERAL KESATUAN BANGSA DAN POLITIK ', NULL, NULL, 'Telp. (021) 3849930 Ext. 2897 Fax. (021) 3814013 ', NULL, NULL, NULL),
+(NULL, 'A. Fuad Rahmany','KEMENTERIAN DALAM NEGERI', 'Direktur Jendral Pajak', NULL, NULL, 'Telp. (021)  529.60791 Fax.  (021)  520.3184', NULL, NULL, NULL),
+(NULL, 'Agung Kuswandono','KEMENTERIAN DALAM NEGERI', 'Direktur Jenderal Bea dan Cukai', NULL, NULL, 'Telp.  (021)  489.7511 Fax.   (021)  489.7512', NULL, NULL, NULL),
+(NULL, 'Boediarso Teguh Widodo','KEMENTERIAN DALAM NEGERI', 'Plt. Direktur Jenderal Perbendaharaan', NULL, NULL, 'Telp.  (021) 345.0959 Ext. 5200 Fax.   (021) 345.7490', NULL, NULL, NULL),
+(NULL, 'Hadiyanto','KEMENTERIAN DALAM NEGERI', 'Direktur Jenderal Kekayaan Negara', NULL, NULL, ' Telp.  (021)  384.9388 Fax.   (021)  344.8390', NULL, NULL, NULL),
+(NULL, 'Marwanto Harjowirjono','KEMENTERIAN DALAM NEGERI', 'Direktur Jenderal Perimbangan Keuangan', NULL, NULL, 'Telp. (021) 350.9442 Ext. 7563 Fax.  (021) 350.9443', NULL, NULL, NULL),
+(NULL, 'Robert Pakpahan','KEMENTERIAN DALAM NEGERI', 'Kuasa Khusus Direktur Jenderal Pengelolaan Utang', NULL, NULL, 'Telp.  (021)  350.0841 Fax. (021)  351.2095', NULL, NULL, NULL),
+(NULL, 'Vincentius Sonny Loho', 'KEMENTERIAN DALAM NEGERI','Inspektur  Jenderal', NULL, NULL, 'Telp.  (021)345.6546 Ext. 6555 Fax.   (021)  384.7442', NULL, NULL, NULL),
+(NULL, NULL, 'KEMENTERIAN DALAM NEGERI','Kepala Badan Kebijakan Fiskal', NULL, NULL, 'Telp.  (021)  344.1484 Ext. 7030, 7031 Fax.   (021)   384.8049', NULL, NULL, NULL),
+(NULL, NULL, 'KEMENTERIAN DALAM NEGERI','Kepala Badan Pendidikan Pelatihan Keuangan', NULL, NULL, 'Telp.  (021)724.4873  (021)739.4666 ext. 251 Fax.(021)724.4912', NULL, NULL, NULL),
+(NULL, NULL, 'KEMENTERIAN DALAM NEGERI','Staf Ahli Menteri Keuangan Bidang Kekayaan Negara', NULL, NULL, 'TGd. “E” (Gd. Djuanda I) Lt. 7 Ext. 6211 Fax.   (021) 384.9176', NULL, NULL, NULL),
+(NULL, 'Andin Hadiyanto','KEMENTERIAN DALAM NEGERI', 'Staf Ahli Menteri Keuangan Bidang Makro Ekonomi dan Keuangan Internasional', NULL, NULL, ' Telp.  (021) 384.9176 Fax.   (021) 384.7465', NULL, NULL, NULL),
+(NULL, NULL,'KEMENTERIAN DALAM NEGERI', 'Staf Ahli Menteri Keuangan Bidang Kebijakan dan Regulasi Jasa Keuangan dan Pasar Modal', NULL, NULL, ' T. (021) 384.9176 F. (021) 384.7465', NULL, NULL, NULL),
+(NULL, 'Robert Pakpahan','KEMENTERIAN DALAM NEGERI', 'Staf Ahli Menteri Keuangan Bidang Penerimaan Negara', NULL, NULL, 'T. (021) 384.9176 F. (021) 384.7465', NULL, NULL, NULL),
+(NULL, 'Boediarso Teguh Widodo','KEMENTERIAN DALAM NEGERI', 'Staf Ahli Menteri Keuangan Bidang Pengeluaran Negara', NULL, NULL, 'T. (021) 384.9176 Ext. 6211, 6222 F. (021) 384.7465', NULL, NULL, NULL),
+(NULL, 'Rionald Silaban','KEMENTERIAN DALAM NEGERI', 'Staf Ahli Bidang Organisasi, Birokrasi, dan Teknologi Informasi', NULL, NULL, ' T. (021) 384.9176 Ext. 6211 F. (021) 384.7465', NULL, NULL, NULL);
+
